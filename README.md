@@ -13,8 +13,8 @@ For now:
 1. download Godot 4 or higher,
 2. download the repo,
 3. open roll_call.godot in Godot (use **Edit** at first, you'll be able to use **Run** the next time),
-4. Go into the Library tab,
-5. Install Gramps' Steam addon in the /addons directory,
+4. Go into the AssetLib tab,
+5. Install (Download) Gramps' GodotSteam GDExtension 4.4 addon,
 6. Click on the clapper board 🎬 on the top right corner of the Godot window,
 7. Have fun (requirement).
 
