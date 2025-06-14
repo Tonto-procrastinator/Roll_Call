@@ -16,5 +16,5 @@ export_credentials.cfg
 data_*/
 mono_crash.*.json
 
-# Steam libraries
-addons/Steam/
+# Godot Steam libraries
+Steam/
