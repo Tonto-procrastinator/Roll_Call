@@ -22,7 +22,7 @@ For now:
 Sure, you can help me with this project. From constructive comments, to GD Script guru mentorship. Just join the discussion.
 
 ## Hmm.
-I don't care. You can do whatever you want with the codes. The only thing I don't want is to take this game, as is, and start selling it. I mean, if you do, good luck, because I already give it away. Else, you can use snippets, parts, even the whole thing and paste into your bigger game as a minigame. If you do use any of the code here, please say so, I might claim some bragging rights if you game does well.
+I don't care. You can do whatever you want with the codes. The only thing I don't want is to take this game, as is, and start selling it. I mean, if you do, good luck, because I already give it away. Else, you can use snippets, parts, even the whole thing and paste into your bigger game as a minigame. If you do use any of the code here, please say so, it might comes as good bragging for me.
 
 ## 'nuf.
 Indeed. Have fun.
